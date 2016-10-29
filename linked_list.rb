@@ -1,4 +1,4 @@
-l class Link
+class Link
   attr_accessor :key, :val, :next, :prev
 
   def initialize(key = nil, val = nil)
@@ -79,7 +79,6 @@ class LinkedList
     end
     self
   end
-
 
   # uncomment when you have `each` working and `Enumerable` included
   def to_s
