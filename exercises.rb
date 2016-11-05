@@ -1,4 +1,4 @@
-# (all singly-linked lists)
+# (singly-linked)
 def reverse head, prev = nil
   return if head.nil?
 
@@ -17,6 +17,6 @@ end
 
 
 # counters
-# additive steps 
+# additive steps
 def palindrome? head
 end
