@@ -17,6 +17,6 @@ end
 
 
 # counters
-# additive steps
+# multiple passes
 def palindrome? head
 end
